@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Menu />
 
-      <div className="espaco"></div>
+      <div className="espaco">Teste</div>
 
       <div className="fundo">
         <div className="alinhamento">
