@@ -52,7 +52,7 @@ export function CardDescricao() {
           <span>
             <IconButton disableRipple onClick={() => setSmile(!smile)}>
               {smile ? (
-                <EmojiEmotionsIcon sx={{ color: "#facf41" }} />
+                <EmojiEmotionsIcon sx={{ color: "#facf41", fontSize: 40 }} />
               ) : (
                 <SentimentSatisfiedAltIcon sx={{ color: "#facf41" }} />
               )}
